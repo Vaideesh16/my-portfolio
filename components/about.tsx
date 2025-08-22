@@ -5,7 +5,7 @@ export function About() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            I'm a passionate developer who loves building scalable cloud solutions and modern web applications.
+            I am a passionate developer who loves building scalable cloud solutions and modern web applications.
           </p>
         </div>
 
@@ -17,7 +17,7 @@ export function About() {
           </p>
           <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
             I believe in writing clean code, designing intuitive interfaces, 
-            and continuously learning to stay ahead in the tech world. When I'm not coding, I'm usually exploring new cloud-native tools, 
+            and continuously learning to stay ahead in the tech world. When I am not coding, I am usually exploring new cloud-native tools, 
             experimenting with side projects related to AWS, CI/CD, Docker and Kubernetes.
           </p>
         </div>

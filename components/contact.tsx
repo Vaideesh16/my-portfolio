@@ -37,15 +37,15 @@ export function Contact() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Get In Touch</h2>
           {/* <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Have a project in mind or want to collaborate? I'd love to hear from you.
+            Have a project in mind or want to collaborate? I would love to hear from you.
           </p> */}
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div>
-            <h3 className="text-2xl font-bold text-foreground mb-6">Let's work together</h3>
+            <h3 className="text-2xl font-bold text-foreground mb-6">Let us work together</h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              I'm always interested in new opportunities and exciting projects. Whether you have a question about my
+              I am always interested in new opportunities and exciting projects. Whether you have a question about my
               work, want to discuss a collaboration, feel free to reach out.
             </p>
 
@@ -130,7 +130,7 @@ export function Contact() {
                     value={formData.subject}
                     onChange={handleChange}
                     required
-                    placeholder="What's this about?"
+                    placeholder="What is this about?"
                   />
                 </div>
 

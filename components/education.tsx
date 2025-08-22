@@ -35,7 +35,7 @@ const educationData: EducationItem[] = [
     description:
       "Completed 12th standard in PCM stream from Narayana Vidyalayam with an overall percentage of 74.60.",
     // achievements: [
-    //   "Dean's List for 6 semesters",
+    //   "Deans List for 6 semesters",
     //   "President of Computer Science Club",
     //   "Winner of Annual Hackathon 2017",
     // ],
@@ -49,7 +49,7 @@ const educationData: EducationItem[] = [
     description:
       "Completed 10th standard from Narayana Vidyalayam, with an overall percentage of 93.60.",
     // achievements: [
-    //   "Dean's List for 6 semesters",
+    //   "Deans List for 6 semesters",
     //   "President of Computer Science Club",
     //   "Winner of Annual Hackathon 2017",
     // ],

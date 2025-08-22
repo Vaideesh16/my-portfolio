@@ -26,7 +26,7 @@ export function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 xl:gap-16 items-center">
           <div className="text-center lg:text-left animate-slide-up">
             <div className="mb-6">
-              <p className="text-lg sm:text-xl text-muted-foreground mb-2 font-medium">Hello, I'm</p>
+              <p className="text-lg sm:text-xl text-muted-foreground mb-2 font-medium">Hello, I am</p>
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-4 leading-none tracking-tight">
                 <div className="text-primary">Vaideesh</div>
                 <div className="-mt-2">Deshmukh</div>
