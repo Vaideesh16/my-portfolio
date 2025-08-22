@@ -47,8 +47,8 @@ const projects: Project[] = [
       "A responsive portfolio website showcasing projects, educational details and skills with smooth animations.",
     technologies: ["Next.js", "Tailwind CSS", "React.js", "Shadcn"],
     image: "../portfolio_image.png",
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://vaideesh-portfolio.netlify.app/",
+    githubUrl: "https://github.com/Vaideesh16/my-portfolio",
   },
 ]
 
