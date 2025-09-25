@@ -22,8 +22,7 @@ const educationData: EducationItem[] = [
     description:
       "Specialized in Web Development and Cloud Technologies with a focus on real world software development.",
     achievements: [
-      "Solved 200+ DSA problems on LeetCode and GFG",
-      "AWS Certified Cloud Practitioner",
+      
     ],
   },
   {
@@ -133,8 +132,8 @@ export function Education() {
                       {item.achievements && (
                         <div className="space-y-3">
                           <h5 className="font-semibold text-foreground text-lg flex items-center gap-2">
-                            <Award className="w-4 h-4 text-accent" />
-                            Key Achievements
+                            {/* <Award className="w-4 h-4 text-accent" /> */}
+                            
                           </h5>
                           <div className="grid gap-2">
                             {item.achievements.map((achievement, achievementIndex) => (
